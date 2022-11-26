@@ -2,7 +2,7 @@
 
 Este projeto é um desafio da comunidade codelândia construída pelo [IuriCode](https://github.com/iuricode).
 
-[Acesse o site aqui](https://desafio1blog.netlify.app/)
+[Acesse o site aqui](https://desafio1codelandia.vercel.app/)
 
 ## Demonstração
 ![desafio1-blog](https://user-images.githubusercontent.com/82620787/203666299-61bbcf10-d42f-4cf0-b395-0c0fe3b0642f.png)
